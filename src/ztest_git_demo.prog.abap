@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZTEST_GIT_DEMO.
-write: 'Add this and now this'.
+write: 'Add 12131435'.
